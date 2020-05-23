@@ -1,2 +1,2 @@
 # raspi-procesos
-Obtener cantidad de procesos corriendo en Raspberry
+Obtener cantidad de procesos corriendo en Raspberry.
